@@ -6,6 +6,6 @@ public class Example {
     
     public static void main(String[] args) {
         System.out.println("Mike!");
-	System.out.println("Bye, Mike!");
+	System.out.println("Hello, Mike!");
     }
 }
